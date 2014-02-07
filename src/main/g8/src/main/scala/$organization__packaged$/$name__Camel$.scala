@@ -1,6 +1,6 @@
 package $organization$
 
-object Main {
+object $name;format="Camel"$ {
 	def main(args:Array[String]):Unit ={
 		println("run")
   }
